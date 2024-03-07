@@ -2,4 +2,4 @@ Recomendaciones
 
 Instalar: Firefox
 
-Iniciar: sh seeker-network/seeker.sh
+Iniciar: cd seeker-network/ ; bash seeker.sh
