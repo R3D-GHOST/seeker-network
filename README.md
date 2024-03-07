@@ -1,11 +1,5 @@
 Recomendaciones
 
-Instalar
+Instalar: Firefox
 
-Firefox
-
-Iniciar
-
-cd ruta/
-
-bash start.sh
+Iniciar: sh seeker-network/start.sh
