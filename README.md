@@ -1,5 +1,9 @@
 Recomendaciones
-Firefoz
+
+Instalar
+
+Firefox
+
 Iniciar
 
 cd ruta/
